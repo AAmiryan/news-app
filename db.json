@@ -1,0 +1,25 @@
+{
+  "news": [
+    {
+      "id": "1",
+      "title": "Articleghghmghm",
+      "description": "Articleghmghmghmgm",
+      "image": "https://media.istockphoto.com/id/1177502660/photo/young-woman-reading-the-news-on-a-modern-tablet-computer-while-sitting-in-her-living-room.jpg?s=612x612&w=0&k=20&c=oEfXfMaKkgAVfshd7yk_bxGk2iQncWueLVlTL__gWWg=",
+      "fibonacciNumber": 1
+    },
+    {
+      "id": "76f5",
+      "title": "Article 222222",
+      "description": "Article 2 description",
+      "image": "https://fatstacksblog.com/wp-content/uploads/2019/11/Person-writing-article-nov26.jpg",
+      "fibonacciNumber": 8
+    },
+    {
+      "id": "c832",
+      "title": "sdvsdv",
+      "description": "Article 2 description",
+      "image": "https://media.istockphoto.com/id/813136942/photo/selective-focus-of-stacking-magazine-place-on-table-in-living-room.jpg?s=612x612&w=0&k=20&c=6nRlgDo9ecsb1vCPlN8G4cmq4vf8lW4YkSMhoU-jSqE=",
+      "fibonacciNumber": 2
+    }
+  ]
+}
